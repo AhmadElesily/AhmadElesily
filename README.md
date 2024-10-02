@@ -9,7 +9,7 @@
 - 🐳 Flutter Developer, 
 - 💻 Computer Science 4th year student.
 - 🌱 Mobile App Developer trainee
-- 📫 You can reach me on : ahmadelesily@gmail.com
+- 📫 You can reach me on : ahmad.elesily@gmail.com
 
 ### 👨🏻‍💻 Language and tools: 
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></img>
