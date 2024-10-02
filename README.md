@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) 
 
-[![Linkedin Badge](https://img.shields.io/badge/Ahmed_Elesily-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelesily/)
+[![Linkedin Badge](https://img.shields.io/badge/Ahmad_Elesily-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelesily/)
 [![Gmail Badge](https://img.shields.io/badge/ahmadelesily@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ahmadelesily@gmail.com)
 
 - 🐳 Flutter Developer, 
